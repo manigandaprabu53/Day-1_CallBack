@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(to bottom right, orange, white, green);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#wrapper{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
